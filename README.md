@@ -10,11 +10,11 @@ This project was generated with NodeJS, express, mongoose, and Typescript v3.4.1
 5. counters can count visitors
 
 ##end points
-/api/auth
-/api/users
-/api/posts
-/api/comments
-/api/counters
+1. /api/auth
+2. /api/users
+3. /api/posts
+4. /api/comments
+5. /api/counters
 
 ##dependnecies
 {
